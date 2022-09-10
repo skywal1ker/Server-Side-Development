@@ -29,7 +29,6 @@ if(isset($ipsum)){
 }
     }
 
-
 function func3($mt) {
 if (($mt == "")) 
 {echo 'This is empty sting value';}
