@@ -6,7 +6,6 @@ function timeGreetings()
     if(currentTime < 12)
     {console.log("Good Morning my neighbors!");}
 
-
     else if(currentTime > 12 && currentTime<18)
     {console.log("Good Afternoon")}
 
