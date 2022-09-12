@@ -22,12 +22,14 @@ if(isset($lorem)){
     echo 'isset false' . '<br />';
 }
 
+
 if(isset($ipsum)){
     echo 'Ipsum variable is Defined ' . '<br />';
 }else{
     echo 'isset false' . '<br />';
 }
     }
+
 
 function func3($mt) {
 if (($mt == "")) 

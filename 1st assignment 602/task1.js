@@ -1,6 +1,7 @@
 currentTime = new Date().getHours()
 currentTime2 = new Date().getMinutes()
 
+
 function timeGreetings()
 {
     if(currentTime < 12)
@@ -19,5 +20,6 @@ function timeGreetings()
 
 console.log(`The time is now ${currentTime}:${currentTime2}`)
 timeGreetings()
+
 
 
