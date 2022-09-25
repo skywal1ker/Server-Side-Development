@@ -8,8 +8,10 @@
 const fs1 = require('fs');
 // Constructing readable stream
 const readable1 = fs1.createReadStream("input.txt");
+
 // Calling close method
 readable1.close();
+
 // Handling close event
 readable1.on("close", () => {
  console.log("Stream ended");
