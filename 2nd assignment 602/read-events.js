@@ -2,8 +2,7 @@
 // > close, data, end, error
 
 
-
-// Node.js program to demonstrate the 
+// Node.js program to demonstrate the
 // readable close event
 // Including fs module
 const fs1 = require('fs');
@@ -16,7 +15,6 @@ readable1.on("close", () => {
  console.log("Stream ended");
 });
 console.log("Done...");
-
 
 
 // Node.js program to demonstrate the 

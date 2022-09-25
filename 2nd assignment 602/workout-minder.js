@@ -4,7 +4,6 @@
 // Create your own event emitter that tells the client <Encouraging Phrase>.  It's time to switch to the <name of the next ab's workout>", every 5 minutes.
 // When you have used all your ab exercises, the program exits.
 
-
 let arr1 = ["Plank", "Hand slide crunch", "Mountain climber", "Reverse crunch", "Grounded Russian twist", "Dead bug", "Leg raise" ]
 let arr2 = ["Nice Job",  "You are crushing it", "Keep kickin it", "Progress!!", "Keep going"];
 
