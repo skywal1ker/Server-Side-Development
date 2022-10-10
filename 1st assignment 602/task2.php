@@ -15,7 +15,6 @@ if (is_null($magicbox))
 else {echo 'Abracadabra';}
 }
 
-
 function func2($lorem) {
 if(isset($lorem)){
     echo 'Lorem Variable is true';
