@@ -1,9 +1,11 @@
 class Personnel {
     constructor(name, birthDate, gender, ethnicity, martialStatus, religion, employment, visaCode, citizenship ) {
         this.name = name, 
-        this.birthDate = birthDate, 
+        this.birthDate = birthDate,
+
         this.gender = gender, 
-        this.ethnicity = ethnicity, 
+        this.ethnicity = ethnicity,
+
         this.martialStatus = martialStatus,
         this.religion = religion,
 
