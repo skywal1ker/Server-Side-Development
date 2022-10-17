@@ -10,6 +10,7 @@ class Personnel {
         this.visaCode = visaCode,  
         this.citizenship = citizenship    
     }
+
     showInfo() {
         console.log("Here Basic Info")
     }
