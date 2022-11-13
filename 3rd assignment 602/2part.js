@@ -6,8 +6,10 @@ class Personnel {
         this.gender = gender, 
         this.ethnicity = ethnicity,
 
+
         this.martialStatus = martialStatus,
         this.religion = religion,
+
 
 
         this.employment = employment, 
