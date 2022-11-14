@@ -10,8 +10,6 @@ class Personnel {
         this.martialStatus = martialStatus,
         this.religion = religion,
 
-
-
         this.employment = employment, 
         this.visaCode = visaCode,  
         this.citizenship = citizenship    
